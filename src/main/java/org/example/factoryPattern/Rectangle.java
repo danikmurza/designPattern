@@ -1,4 +1,4 @@
-package org.example;
+package org.example.factoryPattern;
 
 public class Rectangle implements Shape {
 
