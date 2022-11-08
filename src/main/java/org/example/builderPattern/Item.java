@@ -1,4 +1,8 @@
 package org.example.builderPattern;
 
-public class Item {
+public interface Item {
+    public  String name();
+    public  Packing packing();
+    public float price();
 }
+
